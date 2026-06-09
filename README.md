@@ -1,2 +1,2 @@
 # customer_behaviour_analysis
-📊 Retail customer behavior analysis across 3.9K customers | Categories, age groups, revenue &amp; subscription insights using Python,SQL,Power BI
+📊 Complete Data Analytics Portfolio Project with end-to-end industry standard Data Analysis of Customer Shopping Trends from Retail Data using SQL, Python and Power BI.
